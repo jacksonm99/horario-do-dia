@@ -21,7 +21,7 @@ function carrega() {
             else{
                 img.innerHTML = '<img src="assets/img/noite.jpg">';
                 document.body.style.backgroundColor = "#0C4473";
-                document.body.style.color = "yellow"
+                document.body.style.color = "#DAA520"
             }
            
                 
